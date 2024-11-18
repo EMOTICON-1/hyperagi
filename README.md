@@ -1,3 +1,4 @@
+git clone https://hf.co/chat/assistant/66365f481ed733523d96344a 
 # hyperagi 
 echo©™  
 # Echo©™
